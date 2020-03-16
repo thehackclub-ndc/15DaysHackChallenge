@@ -1,5 +1,5 @@
 # 15DaysHackChallenge
-[![Build Status](https://travis-ci.com/genialkartik/Ethical-Learner-Devs.svg?token=qsA8ffqdq33DoPxFWVqZ&branch=master)](https://travis-ci.com/genialkartik/Ethical-Learner-Devs)
+
 ## Purpose:
 
 The spread of Coronavirus has resulted in shutting down of the Universities and Schools, and So, Students and Developer are left with a lot of time to enhance themselves, productive use of it can boost the skill levels of the students and hence The Hack Club(North developer Community) is going to come up with a 15 days challenge where students are going to hack these 15 days to make some productive use of it. So, hold yourself ready to take up the #15DaysHackChalllenge.
@@ -29,6 +29,6 @@ Cautions: One needs to be determined to accomplish these tasks.
 - The project build by hackers under the #15DaysHackChallenge will also be featured on our Youtube Channel and GitHub.
 
 ## Find us:
-[Instagram](https://www.instagram.com/thehackclub_ndc),[Twitter](https://twitter.com/thehackclub_ndc), [LinkedIn](https://www.linkedin.com/company/thehackclub-ndc)
+[ [Instagram](https://www.instagram.com/thehackclub_ndc) ]  [ [Twitter](https://twitter.com/thehackclub_ndc) ]  [ [LinkedIn](https://www.linkedin.com/company/thehackclub-ndc) ]
 ## Join the Community of Hacker and Developers
-[Slack](https://www.shortto.com/thehackclub)
+[ [Slack](https://www.shortto.com/thehackclub) ]
