@@ -1,0 +1,17 @@
+PROBLEM 1 : 
+
+Take N (number of rows - only odd numbers allowed), print the pattern as given in input and output section.
+Input Format
+Single Integer
+Constraints
+0 < N < 10 (only odd numbers allowed)
+Output Format
+Pattern
+Sample Input
+5
+Sample Output
+      *
+    * * *
+  * * * * *
+    * * *
+      *
